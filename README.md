@@ -1,5 +1,7 @@
 # devices.css-demo
 
+[Devices.css](https://github.com/picturepan2/devices.css) demo repository.
+
 ## Project setup
 ```
 npm install
